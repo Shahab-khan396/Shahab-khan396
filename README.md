@@ -1,102 +1,82 @@
-#  Hi, I'm Shahab Khan  
+# Hey, I'm Shahab Khan 👋
 
-🚀 Full-Stack Generative AI Engineer  
-💡 Building Intelligent Systems with AI, LLMs & Automation  
-📍 Pakistan  
+I build AI systems that actually work in production — not just Jupyter notebooks.
 
----
+For the past couple of years I've been obsessed with one question: *how do you take a powerful language model and turn it into something a real business can rely on?* That's led me down the rabbit hole of agentic workflows, RAG pipelines, fine-tuning, and full-stack deployment — and I haven't come up for air since.
 
-## 🧠 About Me  
-
-I am a passionate **Full-Stack Generative AI Engineer** focused on building real-world AI systems using:
-
-- Machine Learning & Deep Learning  
-- NLP & Large Language Models (LLMs)  
-- Retrieval-Augmented Generation (RAG)  
-- Fine-Tuning (LoRA / QLoRA)  
-- FastAPI & Streamlit Deployments  
-- Vector Databases  
-
-I enjoy transforming complex AI research into scalable, production-ready applications.
+Right now I'm finishing my CS degree at Islamia College University Peshawar (CGPA 3.75, graduating June 2026) while working as an AI Engineer apprentice at Orel Vision, where I'm shipping things like OCR pipelines, AutoReply agents, and client-facing chatbots. Before that, I built **Photomonix** at NeatNode — a production GenAI image enhancement platform that went from prototype to live users.
 
 ---
 
-## 🛠️ Tech Stack  
+## What I'm Actually Good At
 
-### 💻 Programming
-- Python  
+I don't list every library I've ever imported. Here's what I can own end-to-end:
 
-### 📊 Machine Learning & Deep Learning
-- Scikit-learn  
-- TensorFlow  
-- PyTorch  
-- NumPy  
-- Pandas  
-- Matplotlib  
-- Seaborn  
+**Agentic Systems & LLMs**  
+Multi-agent orchestration, tool-use pipelines, LangChain, LlamaIndex, OpenRouter integrations, and prompt engineering that holds up under real user behavior — not just demo conditions.
 
-### 🤖 Generative AI & LLMs
-- Hugging Face Transformers  
-- LangChain  
-- LlamaIndex  
-- Prompt Engineering  
-- Fine-Tuning LLMs  
-- RAG Systems  
+**RAG & Vector Search**  
+Retrieval-Augmented Generation from scratch: chunking strategies, embedding selection, ChromaDB, semantic search, hybrid retrieval, and making sure the system doesn't hallucinate on edge cases.
 
-### 🗄️ Databases
-- ChromaDB  
-- Vector Databases  
+**Fine-Tuning**  
+LoRA and QLoRA on LLaMA models using Unsloth. I've worked with medical chain-of-thought datasets — the kind of fine-tuning where correctness actually matters.
 
-### 🌐 Deployment & APIs
-- FastAPI  
-- Streamlit  
-- Gradio  
+**Full-Stack AI Deployment**  
+FastAPI backends, Streamlit and React frontends, Docker containers, and multi-model fallback chains (I once built a 7-model fallback using OpenRouter — because production systems can't afford single points of failure).
 
 ---
 
-## 🚀 Featured Projects  
+## Things I've Built
 
-### 🧠 RAG-Based Document QA System  
-- Built using LangChain + ChromaDB  
-- Integrated LLMs via OpenRouter  
-- Streamlit UI for real-time interaction  
+**🤖 AutoReply Agent** — A production social media chatbot for WhatsApp, Instagram, and TikTok. React + FastAPI + SQLite + OpenRouter with a 7-model fallback chain. Built for a real client, handles real traffic.
 
-### 🎤 Open-Source Voice Cloning System  
-- Implemented using Hugging Face TTS models  
-- Optimized inference pipeline  
-- Deployed in Google Colab & Windows  
+**📸 Photomonix** — GenAI image enhancement platform built at NeatNode. My first taste of what it takes to go from a working model to something you can hand to users.
 
-### 🧬 Parameter-Efficient Fine-Tuning  
-- Fine-tuned LLaMA models using LoRA & QLoRA  
-- Optimized training using Unsloth  
-- Applied on Medical Chain-of-Thought dataset  
+**📄 OCR Pipeline** — Advanced document processing with auto-deskew, CLAHE preprocessing, and Lanczos4 upscaling. Built at Orel Vision for production document workflows.
 
----
+**🧬 LLM Fine-Tuning** — Fine-tuned LLaMA models with LoRA/QLoRA on medical CoT data using Unsloth. Learned quickly that the dataset quality matters more than almost anything else.
 
-## 📈 Currently Learning  
+**🔍 RAG Document QA** — LangChain + ChromaDB + OpenRouter with a Streamlit interface. The project that made me understand retrieval failure modes at a deep level.
 
-- Advanced MLOps  
-- LLM Optimization & Quantization  
-- Scalable RAG Architectures  
-- AI System Design  
+**🎤 Voice Cloning System** — Open-source TTS using Hugging Face models, optimized for local inference on Windows and Google Colab.
+
+**📊 SkillForge** *(in progress)* — An AI-powered skill mastery platform with a JD-matched interview engine. Three-agent architecture, MySQL backend, FastAPI + React. Building this because I couldn't find a tool that prepares you for the *specific* job you're applying for.
 
 ---
 
-## 🎯 2026 Goals  
+## Stack
 
-- Build Production-Ready AI SaaS  
-- Contribute to Open-Source AI Projects  
-- Publish Research in Generative AI  
-- Master LLM Infrastructure  
+```
+Languages      Python
+LLM/AI         LangChain · LlamaIndex · Hugging Face · OpenRouter · Gemini API
+                LoRA/QLoRA fine-tuning · Prompt Engineering · RAG Systems
+ML             PyTorch · TensorFlow · Scikit-learn · Pandas · NumPy
+Databases      MySQL · ChromaDB · SQLite · Vector DBs · SQLAlchemy ORM
+Backend        FastAPI · REST APIs
+Frontend       React · Streamlit · Gradio
+DevOps         Docker · Git
+Certifications Microsoft Azure AI Fundamentals · IBM ML (Coursera)
+```
 
 ---
 
-## 📫 Let's Connect  
+## Honest About What I'm Still Learning
 
-- 💼 LinkedIn: (Add your link)
-- 📧 Email: (Add your email)
-- 🌐 Portfolio: (Add if available)
+MLOps at scale, LLM quantization and optimization, advanced system design for high-throughput AI workloads. I write this not as a disclaimer, but because I think engineers who know exactly where their edge is learn faster than those who don't.
 
 ---
 
-⭐ If you like AI, LLMs, and building intelligent systems — let's connect!
+## What I'm Looking For
+
+A full-time AI/ML Engineer role where I can contribute immediately on real problems — ideally somewhere that ships fast and cares about the quality of what they build. I'm open to remote and on-site, and I'm graduating in June 2026.
+
+If you're building something interesting with LLMs, agentic systems, or production AI infrastructure, I'd genuinely love to talk.
+
+---
+
+📧 [Shahabkhan2799@gmail.com]  
+💼 [www.linkedin.com/in/shahab-khan-8361012b1]  
+
+
+---
+
