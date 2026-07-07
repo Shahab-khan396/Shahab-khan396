@@ -1,30 +1,26 @@
-# Hey, I'm Shahab Khan 👋
+# 💫 About Me:
+I build AI systems that actually work in production — not just Jupyter notebooks.<br><br>For the past couple of years I've been obsessed with one question: how do you take a powerful language model and turn it into something a real business can rely on? That's led me down the rabbit hole of agentic workflows, RAG pipelines, fine-tuning, and full-stack deployment — and I haven't come up for air since.<br><br>Right now I'm finishing my CS degree at Islamia College University Peshawar (CGPA 3.75, graduating June 2026) while working as an AI Engineer apprentice at Orel Vision, where I'm shipping things like OCR pipelines, AutoReply agents, and client-facing chatbots. Before that, I built Photomonix at NeatNode — a production GenAI image enhancement platform that went from prototype to live users.
 
-I build AI systems that actually work in production — not just Jupyter notebooks.
 
-For the past couple of years I've been obsessed with one question: *how do you take a powerful language model and turn it into something a real business can rely on?* That's led me down the rabbit hole of agentic workflows, RAG pipelines, fine-tuning, and full-stack deployment — and I haven't come up for air since.
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/shahab-khan-8361012b1) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shahabkhan2799@gmail.com) 
 
-Right now I'm finishing my CS degree at Islamia College University Peshawar (CGPA 3.75, graduating June 2026) while working as an AI Engineer apprentice at Orel Vision, where I'm shipping things like OCR pipelines, AutoReply agents, and client-facing chatbots. Before that, I built **Photomonix** at NeatNode — a production GenAI image enhancement platform that went from prototype to live users.
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![OpenAPI Specification](https://img.shields.io/badge/openapiinitiative-%23000000.svg?style=for-the-badge&logo=openapiinitiative&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Shahab-khan396&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=Shahab-khan396&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Shahab-khan396&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
----
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-## What I'm Actually Good At
-
-I don't list every library I've ever imported. Here's what I can own end-to-end:
-
-**Agentic Systems & LLMs**  
-Multi-agent orchestration, tool-use pipelines, LangChain, LlamaIndex, OpenRouter integrations, and prompt engineering that holds up under real user behavior — not just demo conditions.
-
-**RAG & Vector Search**  
-Retrieval-Augmented Generation from scratch: chunking strategies, embedding selection, ChromaDB, semantic search, hybrid retrieval, and making sure the system doesn't hallucinate on edge cases.
-
-**Fine-Tuning**  
-LoRA and QLoRA on LLaMA models using Unsloth. I've worked with medical chain-of-thought datasets — the kind of fine-tuning where correctness actually matters.
-
-**Full-Stack AI Deployment**  
-FastAPI backends, Streamlit and React frontends, Docker containers, and multi-model fallback chains (I once built a 7-model fallback using OpenRouter — because production systems can't afford single points of failure).
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Shahab-khan396&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://komarev.com/ghpvc/?username=Shahab-khan396&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 ## Things I've Built
 
