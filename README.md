@@ -15,12 +15,6 @@ I build AI systems that actually work in production — not just Jupyter noteboo
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Shahab-khan396&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://komarev.com/ghpvc/?username=Shahab-khan396&icon=0&color=0)](https://visitcount.itsvg.in)
-
 
 ## Things I've Built
 
