@@ -64,8 +64,7 @@ If you're building something interesting with LLMs, agentic systems, or producti
 
 ---
 
-📧 [Shahabkhan2799@gmail.com]  
-💼 [www.linkedin.com/in/shahab-khan-8361012b1]  
+
 
 
 ---
