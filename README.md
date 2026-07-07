@@ -62,6 +62,6 @@ A full-time AI/ML Engineer role where I can contribute immediately on real probl
 
 If you're building something interesting with LLMs, agentic systems, or production AI infrastructure, I'd genuinely love to talk.
 
----
+
 
 
