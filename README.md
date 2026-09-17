@@ -109,14 +109,8 @@ An end-to-end career acceleration engine that takes anyone from their first line
 
 **Automation** — n8n · API integration · OpenAPI Specification
 
----
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shahab-khan396&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shahab-khan396&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" height="165"/>
-</p>
 
 ---
 
